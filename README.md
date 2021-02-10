@@ -33,8 +33,8 @@ Fullstack ist klasse! Die Möglichkeit zu haben eigene kleine Projekte komplett 
 
 ## Der Stack
 
-Frontend: React, Redux, Material-Ui
-Backend: Node.js, Express, Sharp, JWT
-Datenbank: MongoDB Cloud Atlas
-Cloud-Storage: Google Cloud Storage
-Hosting: Heroku (BE) + Netlify (FE)
+- Frontend: React, Redux, Material-Ui
+- Backend: Node.js, Express, Sharp, JWT
+- Datenbank: MongoDB Cloud Atlas
+- Cloud-Storage: Google Cloud Storage
+- Hosting: Heroku (BE) + Netlify (FE)
