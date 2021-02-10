@@ -1,4 +1,4 @@
-[Link zur Website](memories-jannik.netlify.app)
+https://memories-jannik.netlify.app/
 
 ## Ziel des Projekts
 
