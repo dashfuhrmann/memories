@@ -38,6 +38,7 @@ Fullstack ist klasse! Die Möglichkeit zu haben eigene kleine Projekte komplett 
 * Anemdlung und Authentication erweitern, Passwort zurücksetzen, Registrierung bestätigen per Link in E-Mail etc.
 
 * Code clean-up
+* File names
 * Wechsel auf Typescript ?!
 
 ## Der Stack
