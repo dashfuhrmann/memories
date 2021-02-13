@@ -1,5 +1,7 @@
 https://memories-jannik.netlify.app/
 
+( Falls die Meldung "No Posts" erscheint bitte kurz warten oder nochmal refreshen! )
+
 ## Ziel des Projekts
 
 Bei diesem Projekt ging es darum auf Basis eines Youtube-Tutorials (https://www.youtube.com/watch?v=ngc9gnGgUdA&t=5s) meine React Kenntnisse aufzufrischen, einen ersten Einblick in Backend-Entwicklung zu bekommen und dieses neue Wissen dann anzuwenden und das Projekt zu erweitern. Außerdem wollte ich nachdem ich die letzten zwei Jahre viel mit Bulma und Bootstrap gearbeitet habe ein neues CSS-Framework ausprobieren und entschied mich für Material-Ui. An dem Projekt habe ich 5 Wochen mit ca. 10-15 Stunden pro Woche gearbeitet.
@@ -30,6 +32,9 @@ Fullstack ist klasse! Die Möglichkeit zu haben eigene kleine Projekte komplett 
 * Möglichkeit mehrere Bilder hochzuladen
 * Profil-Ansicht
 * Anemdlung und Authentication erweitern, Passwort zurücksetzen, Registrierung bestätigen per Link in E-Mail etc.
+
+* Code clean-up
+* Wechsel auf Typescript ?!
 
 ## Der Stack
 
