@@ -4,7 +4,11 @@ https://memories-jannik.netlify.app/
 
 ## Ziel des Projekts
 
-Bei diesem Projekt ging es darum auf Basis eines Youtube-Tutorials (https://www.youtube.com/watch?v=ngc9gnGgUdA&t=5s) meine React Kenntnisse aufzufrischen, einen ersten Einblick in Backend-Entwicklung zu bekommen und dieses neue Wissen dann anzuwenden und das Projekt zu erweitern. Außerdem wollte ich nachdem ich die letzten zwei Jahre viel mit Bulma und Bootstrap gearbeitet habe ein neues CSS-Framework ausprobieren und entschied mich für Material-Ui. An dem Projekt habe ich 5 Wochen mit ca. 10-15 Stunden pro Woche gearbeitet.
+Bei diesem Projekt ging es darum auf Basis eines Youtube-Tutorials (https://www.youtube.com/watch?v=ngc9gnGgUdA&t=5s) meine React Kenntnisse aufzufrischen, einen ersten Einblick in Backend-Entwicklung zu bekommen und dieses neue Wissen dann anzuwenden und das Projekt zu erweitern. Es ging mir hierbei nicht um die wirkliche Benutzung der Website sondern um das Lernen und Vertiefen von Technologien.
+
+Außerdem wollte ich nachdem ich die letzten zwei Jahre viel mit Bulma und Bootstrap gearbeitet habe ein neues CSS-Framework ausprobieren und entschied mich für Material-Ui.
+
+An dem Projekt habe ich 5 Wochen mit ca. 10-15 Stunden pro Woche gearbeitet.
 
 ## Funktionalität und technische Umsetzung
 
